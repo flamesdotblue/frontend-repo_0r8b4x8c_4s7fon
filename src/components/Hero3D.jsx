@@ -6,7 +6,7 @@ export default function Hero3D() {
     <section className="relative w-full min-h-[70vh] md:min-h-[80vh] flex items-center overflow-hidden">
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/qQUip0dJPqrrPryE/scene.splinecode"
+          scene="https://prod.spline.design/N8g2VNcx8Rycz93J/scene.splinecode"
           style={{ width: '100%', height: '100%' }}
         />
       </div>
@@ -21,7 +21,7 @@ export default function Hero3D() {
             Sign in or create your account on a single, elegant page
           </h1>
           <p className="mt-4 text-slate-600 dark:text-slate-200 text-base md:text-lg">
-            Powered by an iridescent, holographic 3D identity card. Smooth, modern, and optimized for students and creators.
+            Powered by a dynamic 3D cubic core with iridescent spheres orbiting around it. Smooth, modern, and optimized for students and creators.
           </p>
         </div>
       </div>

@@ -2,7 +2,6 @@ import Hero3D from './components/Hero3D';
 import AuthPanel from './components/AuthPanel';
 import LottieShowcase from './components/LottieShowcase';
 import StudyResources from './components/StudyResources';
-import FooterSimple from './components/FooterSimple';
 
 function App() {
   return (
@@ -11,7 +10,6 @@ function App() {
       <AuthPanel />
       <LottieShowcase />
       <StudyResources />
-      <FooterSimple />
     </div>
   );
 }
